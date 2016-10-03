@@ -15,6 +15,7 @@ organized? How would branches help?
 To try possible developments of the code and keep a basis i.e. an official/working version of code.
 
 How do the diagrams help you visualize the branch structure?
+To see out the parenting between commits.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
