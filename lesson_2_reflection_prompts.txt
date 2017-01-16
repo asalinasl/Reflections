@@ -19,8 +19,8 @@ To see out the parenting between commits.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-The updates/changes on one branch will included in the current checked-out branch, takin into account the commit where the branches were got separated/originated on the past. 
-In the diagram the resulting commint will have to parent commits.
+The updates/changes on one branch will included in the current checked-out branch, taking into account the commit where the branches were got separated/originated on the past. 
+In the diagram the resulting commit will have the parent commits.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
